@@ -5,7 +5,9 @@
 ![Screenshot 2023-10-17 100719](https://github.com/amandaaanh/Belajar-Analisis-Data-dengan-Python/assets/125637539/351c29bb-a11b-4057-9236-e894a0d794e0)
 
 ## Setting up the project within an individual virtual environment.
+```python
 git clone https://github.com/amandaaanh/Belajar-Analisis-Data-dengan-Python.git
 cd Belajar-Analisis-Data-dengan-Python
 pip install -r requirements.txt
 streamlit run dashboard.py
+```
