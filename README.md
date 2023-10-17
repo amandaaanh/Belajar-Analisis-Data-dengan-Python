@@ -9,5 +9,5 @@
 git clone https://github.com/amandaaanh/Belajar-Analisis-Data-dengan-Python.git
 cd Belajar-Analisis-Data-dengan-Python
 pip install -r requirements.txt
-streamlit run dashboard.py
+streamlit run dashboard\dashboard.py
 ```
